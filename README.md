@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Gihyun Kim.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=surface_03)](https://solved.ac/surface_03)
 
 <!--
 **surface03/surface03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
